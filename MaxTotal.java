@@ -52,7 +52,7 @@ public class MaxTotal {
 		Element[][] input = new Element[degree][degree];
 		try 
 		{
-			Path path = Paths.get("/Users/pdeshmane/Documents/workspace/projecteuler_problem18/src/input3.txt");
+			Path path = Paths.get("./input3.txt");
 			Scanner sc = new Scanner(path);
 			
 			for (int i = 0; i < degree; i++) 
