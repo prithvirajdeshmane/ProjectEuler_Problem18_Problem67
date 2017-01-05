@@ -30,7 +30,7 @@ public class MaxTotal {
 		
 		try
 		{
-			Path path = Paths.get("/Users/pdeshmane/Documents/workspace/projecteuler_problem18/src/input1.txt");
+			Path path = Paths.get("~/Documents/workspace/projecteuler_problem18/src/input1.txt");
 			Scanner sc = new Scanner(path);
 			
 			for (int i = 0; i < degree; i++) {
